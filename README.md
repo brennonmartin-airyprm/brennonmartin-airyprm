@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Back during the Covid shutdown, I built a bare bones CRM for my personal use on the Bubble no-code platform to support my networking actvities. Spreadsheets just weren't cutting it anymore. Now I'm going to see if I can figure out how to rebuilt it with actual code using an AI assistant. I'm a product manager, not a developer, so this should be an interesting experiment.
+
+Wish me luck!
+
 <!--
 **brennonmartin-airyprm/brennonmartin-airyprm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
